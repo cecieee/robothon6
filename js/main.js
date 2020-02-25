@@ -329,6 +329,6 @@ AOS.init({
     }, 1000);
 })(jQuery);
 
-$('.reg-button').click(()=>{
-    $('#reg-temp').show()
-})
+// $('.reg-button').click(()=>{
+//     $('#reg-temp').show()
+// })
