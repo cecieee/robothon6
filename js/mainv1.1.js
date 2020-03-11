@@ -291,6 +291,7 @@ AOS.init({
     });
 
     function makeTimer() {
+        return
         var endTime = new Date('20 March 2020 10:00:00 GMT+05:30');
         endTime = Date.parse(endTime) / 1000;
 
